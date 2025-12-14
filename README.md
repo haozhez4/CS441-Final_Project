@@ -10,9 +10,10 @@ price movement using self-collected news headlines.
 Each notebook corresponds to a different model:
 
 - `441final_MLP.ipynb`: MLP
-- `.ipynb`: Logistic Regression
+- `cs441_final_project_logistic_regression_part.ipynb`: Logistic Regression
 - `.ipynb`: 
-- `.ipynb`: 
+- `.ipynb`:
+- `data/hs300_clean_data.csv`: Data
 
 ## Environment
 The notebooks were developed and run in Google Colab.
