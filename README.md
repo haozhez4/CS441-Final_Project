@@ -11,8 +11,8 @@ Each notebook corresponds to a different model:
 
 - `441final_MLP.ipynb`: MLP
 - `cs441_final_project_logistic_regression_part.ipynb`: Logistic Regression
-- `.ipynb`: 
-- `.ipynb`:
+- `441random_forest.ipynb`: Random Forest
+- `441final_boosted_tree.ipynb`: Boosted Tree
 - `data/hs300_clean_data.csv`: Data
 
 ## Environment
