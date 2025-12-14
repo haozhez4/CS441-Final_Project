@@ -9,16 +9,14 @@ price movement using self-collected news headlines.
 ## Code Structure
 Each notebook corresponds to a different model:
 
-
+- `.ipynb`: MLP
+- `.ipynb`: Logistic Regression
+- `.ipynb`: 
+- `.ipynb`: 
 
 ## Environment
 The notebooks were developed and run in Google Colab.
 
-Main libraries:
-- numpy
-- pandas
-- scikit-learn
-- pytorch (for neural models)
 
 ## How to Run
 Open any notebook and run all cells from top to bottom.
