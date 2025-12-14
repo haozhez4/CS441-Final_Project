@@ -9,7 +9,7 @@ price movement using self-collected news headlines.
 ## Code Structure
 Each notebook corresponds to a different model:
 
-- `.ipynb`: MLP
+- `441final_MLP.ipynb`: MLP
 - `.ipynb`: Logistic Regression
 - `.ipynb`: 
 - `.ipynb`: 
